@@ -1,0 +1,17 @@
+.navbar {
+    display: flex;
+    justify-content: flex-end;
+    padding: 10px 20px;
+    background-color: #B8CFCE;
+
+}
+.navlist {
+    display: flex;
+    gap: 20px;
+    list-style: none;
+}
+.navlist a {
+    text-decoration: none;
+    color:black;
+    font-weight: bold;
+}
